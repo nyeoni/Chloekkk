@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![nkim's 42 stats](https://badge42.herokuapp.com/api/stats/nkim?cursus=42cursus)](https://github.com/JaeSeoKim/badge42)
-https://42js.vercel.app/api/v1/certificate/js-piscine-beta/`[nkim]`
+![image](https://user-images.githubusercontent.com/51353146/132574493-85b739cd-cdc7-4e48-b30d-cf4087081a9e.png)
 <!--
 **Chloekkk/Chloekkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
